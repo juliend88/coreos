@@ -15,3 +15,5 @@ However Coroes offers several versions including version Alpha and Beta. These a
 This link will explain the entire process to follow to download and add the images in the OpenStack Glance module.
 
 - https://coreos.com/os/docs/latest/booting-on-openstack.html
+
+Feel free to use the range of type instances n2, n1 our type of instances being widely used.
