@@ -7,6 +7,7 @@
 
 ### Overview
 
+CoreOS is a powerful Linux distribution built to make large, scalable deployments on varied infrastructure simple to manage.
 CoreOS is designed for security, consistency, and reliability. Instead of installing packages via yum or apt, CoreOS uses Linux containers to manage your services at a higher level of abstraction. A single service's code and all dependencies are packaged within a container that can be run on one or many CoreOS machines.
 
 Cloudwatt offers now stable version with all the system updates and security available as of March 18, 2016.
@@ -15,5 +16,3 @@ However Coroes offers several versions including version Alpha and Beta. These a
 This link will explain the entire process to follow to download and add the images in the OpenStack Glance module.
 
 - https://coreos.com/os/docs/latest/booting-on-openstack.html
-
-Feel free to use the range of type instances n2, n1 our type of instances being widely used.
